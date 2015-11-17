@@ -1,5 +1,4 @@
 ##############################by jiangxin
-bin/
-obj/
-doxygen/
 *.swp
+*.o
+cachesim
